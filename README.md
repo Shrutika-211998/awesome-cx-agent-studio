@@ -5,11 +5,11 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 > **CX Agent Studio** is a low-code platform powered by Gemini models for building, evaluating, and deploying conversational AI agents.
 
 ## 📝 Blogs & Articles
-- [Converting Business Requirements into a Live AI Agent Using Google’s CX Agent Studio](https://yashkavaiya.substack.com/p/converting-business-requirements) - A step-by-step guide to building agents from scratch.
-- [How to Deploy a Google Cloud Next Gen Agent CX Agent Studio to Telegram: A Step-by-Step Guide](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) - Building a bridge between 900 million Telegram users and enterprise-grade conversational AI
+- [Converting Business Requirements into a Live AI Agent Using Google's CX Agent Studio](https://yashkavaiya.substack.com/p/converting-business-requirements) - A step-by-step guide to building agents from scratch.
+- [How to Deploy a Google Cloud Next Gen Agent CX Agent Studio to Telegram: A Step-by-Step Guide](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) - Building a bridge between 900 million Telegram users and enterprise-grade conversational AI.
 
 ## 📺 Videos
-*(Coming soon - check [GenAI Guru on YouTube](https://youtube.com/@genai-guru))*
+- [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) - Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools.
 
 ## 📚 Documentation
 - [Official Google Cloud CX Agent Studio Docs](https://cloud.google.com/agent-engine/docs)
@@ -17,7 +17,10 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 
 ## 🛠️ Tools & SDKs
 - [CX Agent Studio MCP Server](https://github.com/Yash-Kavaiya/cx-agent-studio-mcp) - Model Context Protocol server for CX Agent Studio.
-- [CX Agent Studio Starter Templates](https://github.com/Yash-Kavaiya/cx-agent-studio-starter-templates) - Ready-to-use agent templates.
+- [CX Agent Studio Starter Templates](https://github.com/Yash-Kavaiya/cx-agent-studio-starter-templates) - Ready-to-use agent templates for rapid development.
+- [CX Agent Studio API](https://github.com/Yash-Kavaiya/cx-agent-studio-api) - API integration layer for CX Agent Studio workflows.
+- [Dialogflow Intents Bundle](https://github.com/Yash-Kavaiya/dialogflow-intents-bundle) - Bulk create/update Dialogflow CX intents from CSV with async processing, retries, and run reports.
+- [Agent Buddy](https://github.com/Yash-Kavaiya/agent-buddy) - Comprehensive platform for building, managing, and optimizing Dialogflow agents with AI-powered tools and enterprise-grade features.
 
 ## 🚀 Custom Deployment & Channels
 - [CX Agent Studio Channels](https://github.com/Yash-Kavaiya/cx-agent-studio-channels) - Custom channel integrations and deployment guides.
