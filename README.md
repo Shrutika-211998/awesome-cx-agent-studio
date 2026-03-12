@@ -12,7 +12,7 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 - [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) - Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools.
 
 ## Udemy Course 
-[CX Agent Studio: Build Multimodal Customer Experience AI](https://www.udemy.com/course/cx-agent-studio-build-multimodal-customer-experience-ai/?referralCode=1381ED44B07BDACC72D7)
+- [CX Agent Studio: Build Multimodal Customer Experience AI](https://www.udemy.com/course/cx-agent-studio-build-multimodal-customer-experience-ai/?referralCode=1381ED44B07BDACC72D7)
 
 ## 📚 Documentation
 - [Official Google Cloud CX Agent Studio Docs](https://cloud.google.com/agent-engine/docs)
@@ -34,6 +34,11 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 ## 🎓 Courses
 - [Google Partner Skills Course 1600](https://partner.skills.google/course_templates/1600)
 - [Google Partner Skills Course 1446](https://partner.skills.google/course_templates/1446)
+
+## Support 
+Need hands‑on help? Book a 1:1 CX Agent Studio consultation on Topmate.
+- [Book a Appoinment](https://topmate.io/yash_kavaiya)
+
 
 ## Contributing
 Contributions are welcome! Please open a pull request or issue to add new resources.
