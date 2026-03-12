@@ -39,6 +39,8 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 Need hands‑on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 - [Book a Appoinment](https://topmate.io/yash_kavaiya)
 
+🧑‍🤝‍🧑 Community
+ [r/CXAgentStudio](https://www.reddit.com/r/CXAgentStudio/) on Reddit - Community discussions, tips, and support for CX Agent Studio users.
 
 ## Contributing
 Contributions are welcome! Please open a pull request or issue to add new resources.
