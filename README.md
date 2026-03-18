@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CXAgentStudio?style=social)](https://www.reddit.com/r/CXAgentStudio/)
 
-> **CX Agent Studio** (formerly Agent Builder / Gen App Builder for CX) is a low-code platform powered by Gemini models for building, evaluating, and deploying conversational AI agents.
+> **CX Agent Studio** is a low-code platform powered by Gemini models for building, evaluating, and deploying conversational AI agents.
 
 🌐 **[cxagentstudio.lovable.app](https://cxagentstudio.lovable.app)** — The hub for everything CX Agent Studio
 
