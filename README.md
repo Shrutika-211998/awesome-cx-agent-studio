@@ -61,6 +61,7 @@
 | [Starter Templates](https://github.com/Yash-Kavaiya/cx-agent-studio-starter-templates) | Ready-to-use agent templates for rapid development |
 | [API Integration Layer](https://github.com/Yash-Kavaiya/cx-agent-studio-api) | API integration layer for CX Agent Studio workflows |
 | [Dialogflow Intents Bundle](https://github.com/Yash-Kavaiya/dialogflow-intents-bundle) | Bulk create/update Dialogflow CX intents from CSV with async processing, retries, and run reports |
+| [CX Agent Studio CLI](https://github.com/Yash-Kavaiya/cx-agent-studio-cli) | Full-featured CLI for the CES v1beta API — 18 resource types, 78+ endpoints: apps, agents, tools, sessions, evaluations, and more |
 | [Agent Buddy](https://github.com/Yash-Kavaiya/agent-buddy) | Comprehensive platform for building, managing, and optimizing Dialogflow agents with AI-powered tools |
 
 ## 🤖 Agent Skills
@@ -113,3 +114,4 @@ Contributions are welcome! Please open a **pull request** or **issue** to add ne
 **⭐ If you find this list useful, give it a star!**
 
 </div>
+
