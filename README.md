@@ -79,7 +79,19 @@ Installable AI agent skills for CX Agent Studio development. Works with Claude C
 
 ## 🚀 Deployment & Channels
 
-- [CX Agent Studio Channels](https://github.com/Yash-Kavaiya/cx-agent-studio-channels) — Custom channel integrations and deployment guides.
+Deploy your CX Agent Studio agent across 7 messaging platforms with production-ready integrations. Each integration handles webhooks, session management, message formatting, and rich media out of the box.
+
+| Channel | Language | Status |
+|---------|----------|--------|
+| 💬 [WhatsApp Business](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/whatsapp) | Node.js | ✅ Ready |
+| 💼 [Slack](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/slack) | Python | ✅ Ready |
+| 📱 [Telegram](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/telegram) | Python | ✅ Ready |
+| 🎮 [Discord](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/discord) | Node.js | ✅ Ready |
+| 💬 [Google Chat](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/google-chat) | Node.js | ✅ Ready |
+| 🎥 [Zoom](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/zoom) | Node.js | ✅ Ready |
+| 🟦 Microsoft Teams | - | 🚧 Coming Soon |
+
+**Deployment methods supported:** Cloud Run (recommended), Cloud Functions, Docker, Kubernetes.
 
 ## 🔌 Custom Connectors
 
@@ -88,6 +100,7 @@ Installable AI agent skills for CX Agent Studio development. Works with Claude C
 ## 🧑‍🤝‍🧑 Community
 
 - [r/CXAgentStudio](https://www.reddit.com/r/CXAgentStudio/) — Reddit community for discussions, tips, and support.
+- [CX Agent Studio — LinkedIn Group](https://www.linkedin.com/groups/8701599/) — Connect with practitioners, share use cases, and stay updated on the latest from the community.
 
 ## 💬 Support
 
