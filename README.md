@@ -105,6 +105,34 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 - [Pricing](https://cloud.google.com/products/gemini-enterprise-for-customer-experience/cx-agent-studio/pricing)
 - [AI Agent Finder Marketplace](https://cloud.withgoogle.com/agentfinder/) — Pre-built agents from partners.
 
+## 🤖 Multi-Agent Design Patterns
+
+CX Agent Studio natively supports hierarchical multi-agent systems (root agent + sub-agents).
+
+- [Official Agents Reference](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent) — Root agent as orchestrator, sub-agents for specialized tasks.
+- [Sample Agent Applications in Console](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent-sample) — Cymbal Retail (multi-agent upselling + out-of-scope handling), with full instructions, tools, and variables examples.
+- [The Complete Guide to CX Agent Studio Architecture (My Substack)](https://yashkavaiya.substack.com/p/the-complete-guide-to-cx-agent-studio) — Deep dive into patterns, callbacks, guardrails, and graph-based flows.
+- [Route & Sub-Agent Diagram (Official)](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent) — Visual of the agent tree.
+
+
+## 🔐 Security & Compliance
+
+- [Built-in Guardrails](https://www.youtube.com/watch?v=wq9hCG9ItNA) — Prompt injection protection, word blacklisting, brand safety.
+- [CX Agent Studio SLA](https://cloud.google.com/terms/cxagentstudio/sla) — 99.9% uptime, error-rate definitions.
+- [GCP Org Policy Coverage](https://stackoverflow.com/questions/79911859/coverage-of-gcp-org-policies-across-cx-agent-studio) — Threat modeling discussion.
+- [UJET + CX Agent Studio Security Pillars](https://ujet.cx/blog/ai-agent-building-just-got-easier-how-ujet-google-cloud-cx-agent-studio-are-redefining-automation) — Consent, Control, Trusted Protocols.
+
+## 📊 Monitoring & Observability
+
+- [Built-in Tracing & Evaluations](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps) — End-to-end visibility in the Studio.
+- [Vertex AI + Cloud Monitoring Integration](https://cloud.google.com/solutions/observability) — Recommended stack for production agents.
+- [Evaluation Pipelines & Batch Upload](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps) — Automated quality scoring.
+
+## 🔄 Migration from Dialogflow CX
+
+- [Isolated vs Integrated Migration Strategy](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/flow) — Official guidance.
+- [Simplified Migration Path (UJET)](https://ujet.cx/blog/ai-agent-building-just-got-easier-how-ujet-google-cloud-cx-agent-studio-are-redefining-automation) — Real-world CCaaS example.
+- [Hybrid Agent Tutorial (2026)](https://www.youtube.com/watch?v=hHedypRY9dg) — Flows + Playbooks + Generative fallback.
 ## Contributing
 
 Contributions are welcome! Please open a **pull request** or **issue** to add new resources, fix links, or suggest improvements.
@@ -114,8 +142,6 @@ Contributions are welcome! Please open a **pull request** or **issue** to add ne
 3. Commit your changes (`git commit -m "Add new resource"`)
 4. Push to the branch (`git push origin add-new-resource`)
 5. Open a Pull Request
-
----
 
 <div align="center">
 
